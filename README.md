@@ -13,7 +13,7 @@ Para iniciá-lo, siga os passos abaixo:
 
 ```bash
 #Suba o banco de dados
-docker conmpose up -d
+docker compose up -d
 #Instale as dep
 npm i
 #rode o projeto
